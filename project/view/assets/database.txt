@@ -1,0 +1,1 @@
+Nossa base de dados é composta por dados registrados desde 2006 pelo CENIPA, totalizando 2027 registros de acidentes e incidentes.

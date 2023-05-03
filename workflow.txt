@@ -1,0 +1,61 @@
+
+To Dd
+
+total de acidentes 2027
+dados a partir de fevereiro de 2006
+
+criação de um novo dataframe com latitude e longitude de cada cidade em que o acidente foi resgritrado
+
+num de acidentes: 1475
+
+num de incidentes graves: 552
+
+entendimento de falhas mecanicas ou humanas
+
+acidentes no pais 1469
+acidentes fora do pais 6
+
+__________________________________________________________________________________
+
+Flow de apresentação
+
+ - introdução sobre dados da aviação civil
+ - informações da base de dados
+ - quantidade de registros de acidentes
+ - distribuição de acidentes no mapa do país
+ - principais causas (comparação humana ou mecanica)
+ - fases da operação de vôo relacionado aos acidentes
+ - modelos de aviões mais comuns (relacionado aos acidentes)
+ - categorias da aviação relacionado aos acidentes
+ - tipo de dano causado relacionado ao acidente
+ - principais aeroportos
+ - correlações com condições climáticas
+ - principais insights
+ - dúvidas?
+__________________________________________________________________________________
+
+## Anotações
+
+## Mostrar dados de aviões de pequeno porte, (são os que mais caem)
+## Devido a baixa altitude, são mais suscetíveis a condições climáticas e obstáculos (montanhas, prédios, linhas te transmissão, pássaros)
+
+
+## se utiliza-se modelos de ML quais usaria?
+classificar o porte do avião com base na quantidade e tipo de motor
+classificar em falhas humanas e falhas mecânicas
+
+## que insights poderia tirar disso?
+possuir dados mais precisos em relação aos tipos de aviões que ocorrem acidentes (podendo assim propor políticas de segurança para os modelos mais comuns)
+
+possuir dados mais precisos em relação aos tipos de falhas que ocorrem acidentes (podendo assim propor políticas de revisão mecanica e treinamento de pilotos)
+
+
+
+## mesmo avião de pequeno porte, deve apresentar um plano de vôo, e seguir as regras de tráfego aéreo. mas o controle de tráfego e rotas são geridos pelos próprios pilotos, com comunicação via rádio. (pode ser um ponto de falha)
+
+## Aredromos com pistas com poucas condições, principalmente em aviões agrícolas.
+
+
+## Adicionar sobre a segurança do vôo no Brasil
+
+## adicionar referencias bibliograficas
